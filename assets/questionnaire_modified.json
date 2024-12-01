@@ -1,0 +1,1509 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "请选择您认为符合菜品描述且质量好的图片，可以多选，选自己觉得顺眼的：",
+      "type": "image_selection_with_validation",
+      "dishName": "4 СЫРА, 四种奶酪, Four Cheeses",
+      "images": [
+        {
+          "id": 1,
+          "url": "/assets/detailed_trans_FLUX.1-schnell-Free/4 СЫРА_Four Cheese.jpg",
+          "model": "detailed_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 2,
+          "url": "/assets/detailed_trans_FLUX.1.1-pro/4 СЫРА_Four Cheese.jpg",
+          "model": "detailed_trans_FLUX.1.1-pro"
+        },
+        {
+          "id": 3,
+          "url": "/assets/FLUX.1-schnell-Free/4 СЫРА.jpg",
+          "model": "FLUX.1-schnell-Free"
+        },
+        {
+          "id": 4,
+          "url": "/assets/FLUX.1.1-pro/4 СЫРА.jpg",
+          "model": "FLUX.1.1-pro"
+        },
+        {
+          "id": 5,
+          "url": "/assets/menu_images_dalle3_2/4 СЫРА.jpg",
+          "model": "menu_images_dalle3_2"
+        },
+        {
+          "id": 6,
+          "url": "/assets/simple_trans_FLUX.1-schnell-Free/4 СЫРА_Four Cheese.jpg",
+          "model": "simple_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 7,
+          "url": "/assets/simple_trans_FLUX.1.1-pro/4 СЫРА_Four Cheese.jpg",
+          "model": "simple_trans_FLUX.1.1-pro"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "请选择您认为符合菜品描述且质量好的图片，可以多选，选自己觉得顺眼的：",
+      "type": "image_selection_with_validation",
+      "dishName": "Beef Bourguignon, 红酒炖牛肉, Beef Bourguignon",
+      "images": [
+        {
+          "id": 1,
+          "url": "/assets/detailed_trans_FLUX.1-schnell-Free/Beef Bourguignon_Beef Bourguignon.jpg",
+          "model": "detailed_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 2,
+          "url": "/assets/detailed_trans_FLUX.1.1-pro/Beef Bourguignon_Beef Bourguignon.jpg",
+          "model": "detailed_trans_FLUX.1.1-pro"
+        },
+        {
+          "id": 3,
+          "url": "/assets/FLUX.1-schnell-Free/Beef Bourguignon.jpg",
+          "model": "FLUX.1-schnell-Free"
+        },
+        {
+          "id": 4,
+          "url": "/assets/FLUX.1.1-pro/Beef Bourguignon.jpg",
+          "model": "FLUX.1.1-pro"
+        },
+        {
+          "id": 5,
+          "url": "/assets/menu_images_dalle3_2/Beef Bourguignon.jpg",
+          "model": "menu_images_dalle3_2"
+        },
+        {
+          "id": 6,
+          "url": "/assets/simple_trans_FLUX.1-schnell-Free/Beef Bourguignon_Beef Bourguignon.jpg",
+          "model": "simple_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 7,
+          "url": "/assets/simple_trans_FLUX.1.1-pro/Beef Bourguignon_Beef Bourguignon.jpg",
+          "model": "simple_trans_FLUX.1.1-pro"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "请选择您认为符合菜品描述且质量好的图片，可以多选，选自己觉得顺眼的：",
+      "type": "image_selection_with_validation",
+      "dishName": "Beef Wellington, 威灵顿牛肉, Beef Wellington",
+      "images": [
+        {
+          "id": 1,
+          "url": "/assets/detailed_trans_FLUX.1-schnell-Free/Beef Wellington_Beef Wellington.jpg",
+          "model": "detailed_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 2,
+          "url": "/assets/detailed_trans_FLUX.1.1-pro/Beef Wellington_Beef Wellington.jpg",
+          "model": "detailed_trans_FLUX.1.1-pro"
+        },
+        {
+          "id": 3,
+          "url": "/assets/FLUX.1-schnell-Free/Beef Wellington.jpg",
+          "model": "FLUX.1-schnell-Free"
+        },
+        {
+          "id": 4,
+          "url": "/assets/FLUX.1.1-pro/Beef Wellington.jpg",
+          "model": "FLUX.1.1-pro"
+        },
+        {
+          "id": 5,
+          "url": "/assets/menu_images_dalle3_2/Beef Wellington.jpg",
+          "model": "menu_images_dalle3_2"
+        },
+        {
+          "id": 6,
+          "url": "/assets/simple_trans_FLUX.1-schnell-Free/Beef Wellington_Beef Wellington.jpg",
+          "model": "simple_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 7,
+          "url": "/assets/simple_trans_FLUX.1.1-pro/Beef Wellington_Beef Wellington.jpg",
+          "model": "simple_trans_FLUX.1.1-pro"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "请选择您认为符合菜品描述且质量好的图片，可以多选，选自己觉得顺眼的：",
+      "type": "image_selection_with_validation",
+      "dishName": "Coq au Vin, 红酒炖鸡, Chicken in Red Wine",
+      "images": [
+        {
+          "id": 1,
+          "url": "/assets/detailed_trans_FLUX.1-schnell-Free/Coq au Vin_Rooster in Wine.jpg",
+          "model": "detailed_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 2,
+          "url": "/assets/detailed_trans_FLUX.1.1-pro/Coq au Vin_Rooster in Wine.jpg",
+          "model": "detailed_trans_FLUX.1.1-pro"
+        },
+        {
+          "id": 3,
+          "url": "/assets/FLUX.1-schnell-Free/Coq au Vin.jpg",
+          "model": "FLUX.1-schnell-Free"
+        },
+        {
+          "id": 4,
+          "url": "/assets/FLUX.1.1-pro/Coq au Vin.jpg",
+          "model": "FLUX.1.1-pro"
+        },
+        {
+          "id": 5,
+          "url": "/assets/menu_images_dalle3_2/Coq au Vin.jpg",
+          "model": "menu_images_dalle3_2"
+        },
+        {
+          "id": 6,
+          "url": "/assets/simple_trans_FLUX.1-schnell-Free/Coq au Vin_Rooster in Wine.jpg",
+          "model": "simple_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 7,
+          "url": "/assets/simple_trans_FLUX.1.1-pro/Coq au Vin_Rooster in Wine.jpg",
+          "model": "simple_trans_FLUX.1.1-pro"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "请选择您认为符合菜品描述且质量好的图片，可以多选，选自己觉得顺眼的：",
+      "type": "image_selection_with_validation",
+      "dishName": "Fettuccine Alfredo, 阿尔弗雷多宽面, Fettuccine Alfredo",
+      "images": [
+        {
+          "id": 1,
+          "url": "/assets/detailed_trans_FLUX.1-schnell-Free/Fettuccine Alfredo_Fettuccine Alfredo.jpg",
+          "model": "detailed_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 2,
+          "url": "/assets/detailed_trans_FLUX.1.1-pro/Fettuccine Alfredo_Fettuccine Alfredo.jpg",
+          "model": "detailed_trans_FLUX.1.1-pro"
+        },
+        {
+          "id": 3,
+          "url": "/assets/FLUX.1-schnell-Free/Fettuccine Alfredo.jpg",
+          "model": "FLUX.1-schnell-Free"
+        },
+        {
+          "id": 4,
+          "url": "/assets/FLUX.1.1-pro/Fettuccine Alfredo.jpg",
+          "model": "FLUX.1.1-pro"
+        },
+        {
+          "id": 5,
+          "url": "/assets/menu_images_dalle3_2/Fettuccine Alfredo.jpg",
+          "model": "menu_images_dalle3_2"
+        },
+        {
+          "id": 6,
+          "url": "/assets/simple_trans_FLUX.1-schnell-Free/Fettuccine Alfredo_Fettuccine Alfredo.jpg",
+          "model": "simple_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 7,
+          "url": "/assets/simple_trans_FLUX.1.1-pro/Fettuccine Alfredo_Fettuccine Alfredo.jpg",
+          "model": "simple_trans_FLUX.1.1-pro"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "请选择您认为符合菜品描述且质量好的图片，可以多选，选自己觉得顺眼的：",
+      "type": "image_selection_with_validation",
+      "dishName": "JAMÓN EXTREMEÑO, [极端火腿], [Extremaduran ham]",
+      "images": [
+        {
+          "id": 1,
+          "url": "/assets/detailed_trans_FLUX.1-schnell-Free/JAMÓN EXTREMEÑO_Extremadura Ham.jpg",
+          "model": "detailed_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 2,
+          "url": "/assets/detailed_trans_FLUX.1.1-pro/JAMÓN EXTREMEÑO_Extremadura Ham.jpg",
+          "model": "detailed_trans_FLUX.1.1-pro"
+        },
+        {
+          "id": 3,
+          "url": "/assets/FLUX.1-schnell-Free/JAMÓN EXTREMEÑO.jpg",
+          "model": "FLUX.1-schnell-Free"
+        },
+        {
+          "id": 4,
+          "url": "/assets/FLUX.1.1-pro/JAMÓN EXTREMEÑO.jpg",
+          "model": "FLUX.1.1-pro"
+        },
+        {
+          "id": 5,
+          "url": "/assets/menu_images_dalle3_2/JAMÓN EXTREMEÑO.jpg",
+          "model": "menu_images_dalle3_2"
+        },
+        {
+          "id": 6,
+          "url": "/assets/simple_trans_FLUX.1-schnell-Free/JAMÓN EXTREMEÑO_Extremadura Ham.jpg",
+          "model": "simple_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 7,
+          "url": "/assets/simple_trans_FLUX.1.1-pro/JAMÓN EXTREMEÑO_Extremadura Ham.jpg",
+          "model": "simple_trans_FLUX.1.1-pro"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "请选择您认为符合菜品描述且质量好的图片，可以多选，选自己觉得顺眼的：",
+      "type": "image_selection_with_validation",
+      "dishName": "Lobster Thermidor, 龙虾汤姆多尔, Lobster Thermidor",
+      "images": [
+        {
+          "id": 1,
+          "url": "/assets/detailed_trans_FLUX.1-schnell-Free/Lobster Thermidor_Lobster Thermidor.jpg",
+          "model": "detailed_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 2,
+          "url": "/assets/detailed_trans_FLUX.1.1-pro/Lobster Thermidor_Lobster Thermidor.jpg",
+          "model": "detailed_trans_FLUX.1.1-pro"
+        },
+        {
+          "id": 3,
+          "url": "/assets/FLUX.1-schnell-Free/Lobster Thermidor.jpg",
+          "model": "FLUX.1-schnell-Free"
+        },
+        {
+          "id": 4,
+          "url": "/assets/FLUX.1.1-pro/Lobster Thermidor.jpg",
+          "model": "FLUX.1.1-pro"
+        },
+        {
+          "id": 5,
+          "url": "/assets/menu_images_dalle3_2/Lobster Thermidor.jpg",
+          "model": "menu_images_dalle3_2"
+        },
+        {
+          "id": 6,
+          "url": "/assets/simple_trans_FLUX.1-schnell-Free/Lobster Thermidor_Lobster Thermidor.jpg",
+          "model": "simple_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 7,
+          "url": "/assets/simple_trans_FLUX.1.1-pro/Lobster Thermidor_Lobster Thermidor.jpg",
+          "model": "simple_trans_FLUX.1.1-pro"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "请选择您认为符合菜品描述且质量好的图片，可以多选，选自己觉得顺眼的：",
+      "type": "image_selection_with_validation",
+      "dishName": "Osso Buco, 煮小腿骨, Bone with a hole",
+      "images": [
+        {
+          "id": 1,
+          "url": "/assets/detailed_trans_FLUX.1-schnell-Free/Osso Buco_Osso Buco.jpg",
+          "model": "detailed_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 2,
+          "url": "/assets/detailed_trans_FLUX.1.1-pro/Osso Buco_Osso Buco.jpg",
+          "model": "detailed_trans_FLUX.1.1-pro"
+        },
+        {
+          "id": 3,
+          "url": "/assets/FLUX.1-schnell-Free/Osso Buco.jpg",
+          "model": "FLUX.1-schnell-Free"
+        },
+        {
+          "id": 4,
+          "url": "/assets/FLUX.1.1-pro/Osso Buco.jpg",
+          "model": "FLUX.1.1-pro"
+        },
+        {
+          "id": 5,
+          "url": "/assets/menu_images_dalle3_2/Osso Buco.jpg",
+          "model": "menu_images_dalle3_2"
+        },
+        {
+          "id": 6,
+          "url": "/assets/simple_trans_FLUX.1-schnell-Free/Osso Buco_Osso Buco.jpg",
+          "model": "simple_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 7,
+          "url": "/assets/simple_trans_FLUX.1.1-pro/Osso Buco_Osso Buco.jpg",
+          "model": "simple_trans_FLUX.1.1-pro"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "请选择您认为符合菜品描述且质量好的图片，可以多选，选自己觉得顺眼的：",
+      "type": "image_selection_with_validation",
+      "dishName": "PRESA Ibérica, 伊比利亚肩肉, Ibérico Presa",
+      "images": [
+        {
+          "id": 1,
+          "url": "/assets/detailed_trans_FLUX.1-schnell-Free/PRESA Ibérica_Iberian Presa.jpg",
+          "model": "detailed_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 2,
+          "url": "/assets/detailed_trans_FLUX.1.1-pro/PRESA Ibérica_Iberian Presa.jpg",
+          "model": "detailed_trans_FLUX.1.1-pro"
+        },
+        {
+          "id": 3,
+          "url": "/assets/FLUX.1-schnell-Free/PRESA Ibérica.jpg",
+          "model": "FLUX.1-schnell-Free"
+        },
+        {
+          "id": 4,
+          "url": "/assets/FLUX.1.1-pro/PRESA Ibérica.jpg",
+          "model": "FLUX.1.1-pro"
+        },
+        {
+          "id": 5,
+          "url": "/assets/menu_images_dalle3_2/PRESA Ibérica.jpg",
+          "model": "menu_images_dalle3_2"
+        },
+        {
+          "id": 6,
+          "url": "/assets/simple_trans_FLUX.1-schnell-Free/PRESA Ibérica_Iberian Presa.jpg",
+          "model": "simple_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 7,
+          "url": "/assets/simple_trans_FLUX.1.1-pro/PRESA Ibérica_Iberian Presa.jpg",
+          "model": "simple_trans_FLUX.1.1-pro"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "请选择您认为符合菜品描述且质量好的图片，可以多选，选自己觉得顺眼的：",
+      "type": "image_selection_with_validation",
+      "dishName": "PULPO CASA TONARDO, 扇贝家常章鱼, Octopus Casa Tonardo",
+      "images": [
+        {
+          "id": 1,
+          "url": "/assets/detailed_trans_FLUX.1-schnell-Free/PULPO CASA TONARDO_Octopus Casa Tonardo.jpg",
+          "model": "detailed_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 2,
+          "url": "/assets/detailed_trans_FLUX.1.1-pro/PULPO CASA TONARDO_Octopus Casa Tonardo.jpg",
+          "model": "detailed_trans_FLUX.1.1-pro"
+        },
+        {
+          "id": 3,
+          "url": "/assets/FLUX.1-schnell-Free/PULPO CASA TONARDO.jpg",
+          "model": "FLUX.1-schnell-Free"
+        },
+        {
+          "id": 4,
+          "url": "/assets/FLUX.1.1-pro/PULPO CASA TONARDO.jpg",
+          "model": "FLUX.1.1-pro"
+        },
+        {
+          "id": 5,
+          "url": "/assets/menu_images_dalle3_2/PULPO CASA TONARDO.jpg",
+          "model": "menu_images_dalle3_2"
+        },
+        {
+          "id": 6,
+          "url": "/assets/simple_trans_FLUX.1-schnell-Free/PULPO CASA TONARDO_Octopus Casa Tonardo.jpg",
+          "model": "simple_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 7,
+          "url": "/assets/simple_trans_FLUX.1.1-pro/PULPO CASA TONARDO_Octopus Casa Tonardo.jpg",
+          "model": "simple_trans_FLUX.1.1-pro"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "请选择您认为符合菜品描述且质量好的图片，可以多选，选自己觉得顺眼的：",
+      "type": "image_selection_with_validation",
+      "dishName": "Ratatouille, 炖菜, Ratatouille",
+      "images": [
+        {
+          "id": 1,
+          "url": "/assets/detailed_trans_FLUX.1-schnell-Free/Ratatouille_Ratatouille.jpg",
+          "model": "detailed_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 2,
+          "url": "/assets/detailed_trans_FLUX.1.1-pro/Ratatouille_Ratatouille.jpg",
+          "model": "detailed_trans_FLUX.1.1-pro"
+        },
+        {
+          "id": 3,
+          "url": "/assets/FLUX.1-schnell-Free/Ratatouille.jpg",
+          "model": "FLUX.1-schnell-Free"
+        },
+        {
+          "id": 4,
+          "url": "/assets/FLUX.1.1-pro/Ratatouille.jpg",
+          "model": "FLUX.1.1-pro"
+        },
+        {
+          "id": 5,
+          "url": "/assets/menu_images_dalle3_2/Ratatouille.jpg",
+          "model": "menu_images_dalle3_2"
+        },
+        {
+          "id": 6,
+          "url": "/assets/simple_trans_FLUX.1-schnell-Free/Ratatouille_Ratatouille.jpg",
+          "model": "simple_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 7,
+          "url": "/assets/simple_trans_FLUX.1.1-pro/Ratatouille_Ratatouille.jpg",
+          "model": "simple_trans_FLUX.1.1-pro"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "请选择您认为符合菜品描述且质量好的图片，可以多选，选自己觉得顺眼的：",
+      "type": "image_selection_with_validation",
+      "dishName": "Risotto alla Milanese, 米兰风味烩饭, Milanese Risotto",
+      "images": [
+        {
+          "id": 1,
+          "url": "/assets/detailed_trans_FLUX.1-schnell-Free/Risotto alla Milanese_Milanese Risotto.jpg",
+          "model": "detailed_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 2,
+          "url": "/assets/detailed_trans_FLUX.1.1-pro/Risotto alla Milanese_Milanese Risotto.jpg",
+          "model": "detailed_trans_FLUX.1.1-pro"
+        },
+        {
+          "id": 3,
+          "url": "/assets/FLUX.1-schnell-Free/Risotto alla Milanese.jpg",
+          "model": "FLUX.1-schnell-Free"
+        },
+        {
+          "id": 4,
+          "url": "/assets/FLUX.1.1-pro/Risotto alla Milanese.jpg",
+          "model": "FLUX.1.1-pro"
+        },
+        {
+          "id": 5,
+          "url": "/assets/menu_images_dalle3_2/Risotto alla Milanese.jpg",
+          "model": "menu_images_dalle3_2"
+        },
+        {
+          "id": 6,
+          "url": "/assets/simple_trans_FLUX.1-schnell-Free/Risotto alla Milanese_Milanese Risotto.jpg",
+          "model": "simple_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 7,
+          "url": "/assets/simple_trans_FLUX.1.1-pro/Risotto alla Milanese_Milanese Risotto.jpg",
+          "model": "simple_trans_FLUX.1.1-pro"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "请选择您认为符合菜品描述且质量好的图片，可以多选，选自己觉得顺眼的：",
+      "type": "image_selection_with_validation",
+      "dishName": "SALMOREJO, 西班牙冷汤, Salmorejo",
+      "images": [
+        {
+          "id": 1,
+          "url": "/assets/detailed_trans_FLUX.1-schnell-Free/SALMOREJO_Salmorejo.jpg",
+          "model": "detailed_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 2,
+          "url": "/assets/detailed_trans_FLUX.1.1-pro/SALMOREJO_Salmorejo.jpg",
+          "model": "detailed_trans_FLUX.1.1-pro"
+        },
+        {
+          "id": 3,
+          "url": "/assets/FLUX.1-schnell-Free/SALMOREJO.jpg",
+          "model": "FLUX.1-schnell-Free"
+        },
+        {
+          "id": 4,
+          "url": "/assets/FLUX.1.1-pro/SALMOREJO.jpg",
+          "model": "FLUX.1.1-pro"
+        },
+        {
+          "id": 5,
+          "url": "/assets/menu_images_dalle3_2/SALMOREJO.jpg",
+          "model": "menu_images_dalle3_2"
+        },
+        {
+          "id": 6,
+          "url": "/assets/simple_trans_FLUX.1-schnell-Free/SALMOREJO_Salmorejo.jpg",
+          "model": "simple_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 7,
+          "url": "/assets/simple_trans_FLUX.1.1-pro/SALMOREJO_Salmorejo.jpg",
+          "model": "simple_trans_FLUX.1.1-pro"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "请选择您认为符合菜品描述且质量好的图片，可以多选，选自己觉得顺眼的：",
+      "type": "image_selection_with_validation",
+      "dishName": "TORTA del CASAR, 卡萨尔饼, Torta del Casar",
+      "images": [
+        {
+          "id": 1,
+          "url": "/assets/detailed_trans_FLUX.1-schnell-Free/TORTA del CASAR_Torta del Casar.jpg",
+          "model": "detailed_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 2,
+          "url": "/assets/detailed_trans_FLUX.1.1-pro/TORTA del CASAR_Torta del Casar.jpg",
+          "model": "detailed_trans_FLUX.1.1-pro"
+        },
+        {
+          "id": 3,
+          "url": "/assets/FLUX.1-schnell-Free/TORTA del CASAR.jpg",
+          "model": "FLUX.1-schnell-Free"
+        },
+        {
+          "id": 4,
+          "url": "/assets/FLUX.1.1-pro/TORTA del CASAR.jpg",
+          "model": "FLUX.1.1-pro"
+        },
+        {
+          "id": 5,
+          "url": "/assets/menu_images_dalle3_2/TORTA del CASAR.jpg",
+          "model": "menu_images_dalle3_2"
+        },
+        {
+          "id": 6,
+          "url": "/assets/simple_trans_FLUX.1-schnell-Free/TORTA del CASAR_Torta del Casar.jpg",
+          "model": "simple_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 7,
+          "url": "/assets/simple_trans_FLUX.1.1-pro/TORTA del CASAR_Torta del Casar.jpg",
+          "model": "simple_trans_FLUX.1.1-pro"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "请选择您认为符合菜品描述且质量好的图片，可以多选，选自己觉得顺眼的：",
+      "type": "image_selection_with_validation",
+      "dishName": "Tiramisu, 提拉米苏, Tiramisu",
+      "images": [
+        {
+          "id": 1,
+          "url": "/assets/detailed_trans_FLUX.1-schnell-Free/Tiramisu_Tiramisu.jpg",
+          "model": "detailed_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 2,
+          "url": "/assets/detailed_trans_FLUX.1.1-pro/Tiramisu_Tiramisu.jpg",
+          "model": "detailed_trans_FLUX.1.1-pro"
+        },
+        {
+          "id": 3,
+          "url": "/assets/FLUX.1-schnell-Free/Tiramisu.jpg",
+          "model": "FLUX.1-schnell-Free"
+        },
+        {
+          "id": 4,
+          "url": "/assets/FLUX.1.1-pro/Tiramisu.jpg",
+          "model": "FLUX.1.1-pro"
+        },
+        {
+          "id": 5,
+          "url": "/assets/menu_images_dalle3_2/Tiramisu.jpg",
+          "model": "menu_images_dalle3_2"
+        },
+        {
+          "id": 6,
+          "url": "/assets/simple_trans_FLUX.1-schnell-Free/Tiramisu_Tiramisu.jpg",
+          "model": "simple_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 7,
+          "url": "/assets/simple_trans_FLUX.1.1-pro/Tiramisu_Tiramisu.jpg",
+          "model": "simple_trans_FLUX.1.1-pro"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "请选择您认为符合菜品描述且质量好的图片，可以多选，选自己觉得顺眼的：",
+      "type": "image_selection_with_validation",
+      "dishName": "Vitello Tonnato, 金枪鱼调味小牛肉, Veal with Tuna Sauce",
+      "images": [
+        {
+          "id": 1,
+          "url": "/assets/detailed_trans_FLUX.1-schnell-Free/Vitello Tonnato_Veal with Tuna Sauce.jpg",
+          "model": "detailed_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 2,
+          "url": "/assets/detailed_trans_FLUX.1.1-pro/Vitello Tonnato_Veal with Tuna Sauce.jpg",
+          "model": "detailed_trans_FLUX.1.1-pro"
+        },
+        {
+          "id": 3,
+          "url": "/assets/FLUX.1-schnell-Free/Vitello Tonnato.jpg",
+          "model": "FLUX.1-schnell-Free"
+        },
+        {
+          "id": 4,
+          "url": "/assets/FLUX.1.1-pro/Vitello Tonnato.jpg",
+          "model": "FLUX.1.1-pro"
+        },
+        {
+          "id": 5,
+          "url": "/assets/menu_images_dalle3_2/Vitello Tonnato.jpg",
+          "model": "menu_images_dalle3_2"
+        },
+        {
+          "id": 6,
+          "url": "/assets/simple_trans_FLUX.1-schnell-Free/Vitello Tonnato_Veal with Tuna Sauce.jpg",
+          "model": "simple_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 7,
+          "url": "/assets/simple_trans_FLUX.1.1-pro/Vitello Tonnato_Veal with Tuna Sauce.jpg",
+          "model": "simple_trans_FLUX.1.1-pro"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "请选择您认为符合菜品描述且质量好的图片，可以多选，选自己觉得顺眼的：",
+      "type": "image_selection_with_validation",
+      "dishName": "КАРБОНАРА, 碳ara, Carbonara",
+      "images": [
+        {
+          "id": 1,
+          "url": "/assets/detailed_trans_FLUX.1-schnell-Free/КАРБОНАРА_Carbonara.jpg",
+          "model": "detailed_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 2,
+          "url": "/assets/detailed_trans_FLUX.1.1-pro/КАРБОНАРА_Carbonara.jpg",
+          "model": "detailed_trans_FLUX.1.1-pro"
+        },
+        {
+          "id": 3,
+          "url": "/assets/FLUX.1-schnell-Free/КАРБОНАРА.jpg",
+          "model": "FLUX.1-schnell-Free"
+        },
+        {
+          "id": 4,
+          "url": "/assets/FLUX.1.1-pro/КАРБОНАРА.jpg",
+          "model": "FLUX.1.1-pro"
+        },
+        {
+          "id": 5,
+          "url": "/assets/menu_images_dalle3_2/КАРБОНАРА.jpg",
+          "model": "menu_images_dalle3_2"
+        },
+        {
+          "id": 6,
+          "url": "/assets/simple_trans_FLUX.1-schnell-Free/КАРБОНАРА_Carbonara.jpg",
+          "model": "simple_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 7,
+          "url": "/assets/simple_trans_FLUX.1.1-pro/КАРБОНАРА_Carbonara.jpg",
+          "model": "simple_trans_FLUX.1.1-pro"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "请选择您认为符合菜品描述且质量好的图片，可以多选，选自己觉得顺眼的：",
+      "type": "image_selection_with_validation",
+      "dishName": "МАРГАРИТА, 玛格丽塔, Margarita",
+      "images": [
+        {
+          "id": 1,
+          "url": "/assets/detailed_trans_FLUX.1-schnell-Free/МАРГАРИТА_Margarita.jpg",
+          "model": "detailed_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 2,
+          "url": "/assets/detailed_trans_FLUX.1.1-pro/МАРГАРИТА_Margarita.jpg",
+          "model": "detailed_trans_FLUX.1.1-pro"
+        },
+        {
+          "id": 3,
+          "url": "/assets/FLUX.1-schnell-Free/МАРГАРИТА.jpg",
+          "model": "FLUX.1-schnell-Free"
+        },
+        {
+          "id": 4,
+          "url": "/assets/FLUX.1.1-pro/МАРГАРИТА.jpg",
+          "model": "FLUX.1.1-pro"
+        },
+        {
+          "id": 5,
+          "url": "/assets/menu_images_dalle3_2/МАРГАРИТА.jpg",
+          "model": "menu_images_dalle3_2"
+        },
+        {
+          "id": 6,
+          "url": "/assets/simple_trans_FLUX.1-schnell-Free/МАРГАРИТА_Margarita.jpg",
+          "model": "simple_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 7,
+          "url": "/assets/simple_trans_FLUX.1.1-pro/МАРГАРИТА_Margarita.jpg",
+          "model": "simple_trans_FLUX.1.1-pro"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "请选择您认为符合菜品描述且质量好的图片，可以多选，选自己觉得顺眼的：",
+      "type": "image_selection_with_validation",
+      "dishName": "С МОРЕПРОДУКТАМИ, 海鲜, Seafood",
+      "images": [
+        {
+          "id": 1,
+          "url": "/assets/detailed_trans_FLUX.1-schnell-Free/С МОРЕПРОДУКТАМИ_Seafood Platter.jpg",
+          "model": "detailed_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 2,
+          "url": "/assets/detailed_trans_FLUX.1.1-pro/С МОРЕПРОДУКТАМИ_Seafood Platter.jpg",
+          "model": "detailed_trans_FLUX.1.1-pro"
+        },
+        {
+          "id": 3,
+          "url": "/assets/FLUX.1-schnell-Free/С МОРЕПРОДУКТАМИ.jpg",
+          "model": "FLUX.1-schnell-Free"
+        },
+        {
+          "id": 4,
+          "url": "/assets/FLUX.1.1-pro/С МОРЕПРОДУКТАМИ.jpg",
+          "model": "FLUX.1.1-pro"
+        },
+        {
+          "id": 5,
+          "url": "/assets/menu_images_dalle3_2/С МОРЕПРОДУКТАМИ.jpg",
+          "model": "menu_images_dalle3_2"
+        },
+        {
+          "id": 6,
+          "url": "/assets/simple_trans_FLUX.1-schnell-Free/С МОРЕПРОДУКТАМИ_Seafood Platter.jpg",
+          "model": "simple_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 7,
+          "url": "/assets/simple_trans_FLUX.1.1-pro/С МОРЕПРОДУКТАМИ_Seafood Platter.jpg",
+          "model": "simple_trans_FLUX.1.1-pro"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "请选择您认为符合菜品描述且质量好的图片，可以多选，选自己觉得顺眼的：",
+      "type": "image_selection_with_validation",
+      "dishName": "ФОКАЧЧА С РОЗМАРИНОМ, 迷迭香佛卡夏, Focaccia with Rosemary",
+      "images": [
+        {
+          "id": 1,
+          "url": "/assets/detailed_trans_FLUX.1-schnell-Free/ФОКАЧЧА С РОЗМАРИНОМ_Focaccia with Rosemary.jpg",
+          "model": "detailed_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 2,
+          "url": "/assets/detailed_trans_FLUX.1.1-pro/ФОКАЧЧА С РОЗМАРИНОМ_Focaccia with Rosemary.jpg",
+          "model": "detailed_trans_FLUX.1.1-pro"
+        },
+        {
+          "id": 3,
+          "url": "/assets/FLUX.1-schnell-Free/ФОКАЧЧА С РОЗМАРИНОМ.jpg",
+          "model": "FLUX.1-schnell-Free"
+        },
+        {
+          "id": 4,
+          "url": "/assets/FLUX.1.1-pro/ФОКАЧЧА С РОЗМАРИНОМ.jpg",
+          "model": "FLUX.1.1-pro"
+        },
+        {
+          "id": 5,
+          "url": "/assets/menu_images_dalle3_2/ФОКАЧЧА С РОЗМАРИНОМ.jpg",
+          "model": "menu_images_dalle3_2"
+        },
+        {
+          "id": 6,
+          "url": "/assets/simple_trans_FLUX.1-schnell-Free/ФОКАЧЧА С РОЗМАРИНОМ_Focaccia with Rosemary.jpg",
+          "model": "simple_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 7,
+          "url": "/assets/simple_trans_FLUX.1.1-pro/ФОКАЧЧА С РОЗМАРИНОМ_Focaccia with Rosemary.jpg",
+          "model": "simple_trans_FLUX.1.1-pro"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "请选择您认为符合菜品描述且质量好的图片，可以多选，选自己觉得顺眼的：",
+      "type": "image_selection_with_validation",
+      "dishName": "かま焼, 烤炉烤, Kamayaki",
+      "images": [
+        {
+          "id": 1,
+          "url": "/assets/detailed_trans_FLUX.1-schnell-Free/かま焼_Grilled Fish in a Kama.jpg",
+          "model": "detailed_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 2,
+          "url": "/assets/detailed_trans_FLUX.1.1-pro/かま焼_Grilled Fish in a Kama.jpg",
+          "model": "detailed_trans_FLUX.1.1-pro"
+        },
+        {
+          "id": 3,
+          "url": "/assets/FLUX.1-schnell-Free/かま焼.jpg",
+          "model": "FLUX.1-schnell-Free"
+        },
+        {
+          "id": 4,
+          "url": "/assets/FLUX.1.1-pro/かま焼.jpg",
+          "model": "FLUX.1.1-pro"
+        },
+        {
+          "id": 5,
+          "url": "/assets/menu_images_dalle3_2/かま焼.jpg",
+          "model": "menu_images_dalle3_2"
+        },
+        {
+          "id": 6,
+          "url": "/assets/simple_trans_FLUX.1-schnell-Free/かま焼_Grilled Fish in a Kama.jpg",
+          "model": "simple_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 7,
+          "url": "/assets/simple_trans_FLUX.1.1-pro/かま焼_Grilled Fish in a Kama.jpg",
+          "model": "simple_trans_FLUX.1.1-pro"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "text": "请选择您认为符合菜品描述且质量好的图片，可以多选，选自己觉得顺眼的：",
+      "type": "image_selection_with_validation",
+      "dishName": "冬の華にぎり, 冬日花握寿司, Winter Flower Nigiri",
+      "images": [
+        {
+          "id": 1,
+          "url": "/assets/detailed_trans_FLUX.1-schnell-Free/冬の華にぎり_Winter Flower Nigiri.jpg",
+          "model": "detailed_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 2,
+          "url": "/assets/detailed_trans_FLUX.1.1-pro/冬の華にぎり_Winter Flower Nigiri.jpg",
+          "model": "detailed_trans_FLUX.1.1-pro"
+        },
+        {
+          "id": 3,
+          "url": "/assets/FLUX.1-schnell-Free/冬の華にぎり.jpg",
+          "model": "FLUX.1-schnell-Free"
+        },
+        {
+          "id": 4,
+          "url": "/assets/FLUX.1.1-pro/冬の華にぎり.jpg",
+          "model": "FLUX.1.1-pro"
+        },
+        {
+          "id": 5,
+          "url": "/assets/menu_images_dalle3_2/冬の華にぎり.jpg",
+          "model": "menu_images_dalle3_2"
+        },
+        {
+          "id": 6,
+          "url": "/assets/simple_trans_FLUX.1-schnell-Free/冬の華にぎり_Winter Flower Nigiri.jpg",
+          "model": "simple_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 7,
+          "url": "/assets/simple_trans_FLUX.1.1-pro/冬の華にぎり_Winter Flower Nigiri.jpg",
+          "model": "simple_trans_FLUX.1.1-pro"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "text": "请选择您认为符合菜品描述且质量好的图片，可以多选，选自己觉得顺眼的：",
+      "type": "image_selection_with_validation",
+      "dishName": "手打鱼丸煮木瓜, 手打鱼丸炖木瓜, Hand-Made Fish Balls Stewed with Papaya",
+      "images": [
+        {
+          "id": 1,
+          "url": "/assets/detailed_trans_FLUX.1-schnell-Free/手打鱼丸煮木瓜_Handmade Fish Balls with Papaya.jpg",
+          "model": "detailed_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 2,
+          "url": "/assets/detailed_trans_FLUX.1.1-pro/手打鱼丸煮木瓜_Handmade Fish Balls with Papaya.jpg",
+          "model": "detailed_trans_FLUX.1.1-pro"
+        },
+        {
+          "id": 3,
+          "url": "/assets/FLUX.1-schnell-Free/手打鱼丸煮木瓜.jpg",
+          "model": "FLUX.1-schnell-Free"
+        },
+        {
+          "id": 4,
+          "url": "/assets/FLUX.1.1-pro/手打鱼丸煮木瓜.jpg",
+          "model": "FLUX.1.1-pro"
+        },
+        {
+          "id": 5,
+          "url": "/assets/menu_images_dalle3_2/手打鱼丸煮木瓜.jpg",
+          "model": "menu_images_dalle3_2"
+        },
+        {
+          "id": 6,
+          "url": "/assets/simple_trans_FLUX.1-schnell-Free/手打鱼丸煮木瓜_Handmade Fish Balls with Papaya.jpg",
+          "model": "simple_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 7,
+          "url": "/assets/simple_trans_FLUX.1.1-pro/手打鱼丸煮木瓜_Handmade Fish Balls with Papaya.jpg",
+          "model": "simple_trans_FLUX.1.1-pro"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "text": "请选择您认为符合菜品描述且质量好的图片，可以多选，选自己觉得顺眼的：",
+      "type": "image_selection_with_validation",
+      "dishName": "杨枝甘露, 杨枝甘露, Mango Pomelo Sago",
+      "images": [
+        {
+          "id": 1,
+          "url": "/assets/detailed_trans_FLUX.1-schnell-Free/杨枝甘露_Mango Sago Dessert.jpg",
+          "model": "detailed_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 2,
+          "url": "/assets/detailed_trans_FLUX.1.1-pro/杨枝甘露_Mango Sago Dessert.jpg",
+          "model": "detailed_trans_FLUX.1.1-pro"
+        },
+        {
+          "id": 3,
+          "url": "/assets/FLUX.1-schnell-Free/杨枝甘露.jpg",
+          "model": "FLUX.1-schnell-Free"
+        },
+        {
+          "id": 4,
+          "url": "/assets/FLUX.1.1-pro/杨枝甘露.jpg",
+          "model": "FLUX.1.1-pro"
+        },
+        {
+          "id": 5,
+          "url": "/assets/menu_images_dalle3_2/杨枝甘露.jpg",
+          "model": "menu_images_dalle3_2"
+        },
+        {
+          "id": 6,
+          "url": "/assets/simple_trans_FLUX.1-schnell-Free/杨枝甘露_Mango Sago Dessert.jpg",
+          "model": "simple_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 7,
+          "url": "/assets/simple_trans_FLUX.1.1-pro/杨枝甘露_Mango Sago Dessert.jpg",
+          "model": "simple_trans_FLUX.1.1-pro"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "text": "请选择您认为符合菜品描述且质量好的图片，可以多选，选自己觉得顺眼的：",
+      "type": "image_selection_with_validation",
+      "dishName": "炙りトロ, [炙烤腹脂], [Seared fatty tuna]",
+      "images": [
+        {
+          "id": 1,
+          "url": "/assets/detailed_trans_FLUX.1-schnell-Free/炙りトロ_Seared Toro.jpg",
+          "model": "detailed_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 2,
+          "url": "/assets/detailed_trans_FLUX.1.1-pro/炙りトロ_Seared Toro.jpg",
+          "model": "detailed_trans_FLUX.1.1-pro"
+        },
+        {
+          "id": 3,
+          "url": "/assets/FLUX.1-schnell-Free/炙りトロ.jpg",
+          "model": "FLUX.1-schnell-Free"
+        },
+        {
+          "id": 4,
+          "url": "/assets/FLUX.1.1-pro/炙りトロ.jpg",
+          "model": "FLUX.1.1-pro"
+        },
+        {
+          "id": 5,
+          "url": "/assets/menu_images_dalle3_2/炙りトロ.jpg",
+          "model": "menu_images_dalle3_2"
+        },
+        {
+          "id": 6,
+          "url": "/assets/simple_trans_FLUX.1-schnell-Free/炙りトロ_Seared Toro.jpg",
+          "model": "simple_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 7,
+          "url": "/assets/simple_trans_FLUX.1.1-pro/炙りトロ_Seared Toro.jpg",
+          "model": "simple_trans_FLUX.1.1-pro"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "text": "请选择您认为符合菜品描述且质量好的图片，可以多选，选自己觉得顺眼的：",
+      "type": "image_selection_with_validation",
+      "dishName": "白子ポンズ, 白子Ponzu, Shirako Ponzu",
+      "images": [
+        {
+          "id": 1,
+          "url": "/assets/detailed_trans_FLUX.1-schnell-Free/白子ポンズ_Silkie Chicken with Ponzu Sauce.jpg",
+          "model": "detailed_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 2,
+          "url": "/assets/detailed_trans_FLUX.1.1-pro/白子ポンズ_Silkie Chicken with Ponzu Sauce.jpg",
+          "model": "detailed_trans_FLUX.1.1-pro"
+        },
+        {
+          "id": 3,
+          "url": "/assets/FLUX.1-schnell-Free/白子ポンズ.jpg",
+          "model": "FLUX.1-schnell-Free"
+        },
+        {
+          "id": 4,
+          "url": "/assets/FLUX.1.1-pro/白子ポンズ.jpg",
+          "model": "FLUX.1.1-pro"
+        },
+        {
+          "id": 5,
+          "url": "/assets/menu_images_dalle3_2/白子ポンズ.jpg",
+          "model": "menu_images_dalle3_2"
+        },
+        {
+          "id": 6,
+          "url": "/assets/simple_trans_FLUX.1-schnell-Free/白子ポンズ_Silkie Chicken with Ponzu Sauce.jpg",
+          "model": "simple_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 7,
+          "url": "/assets/simple_trans_FLUX.1.1-pro/白子ポンズ_Silkie Chicken with Ponzu Sauce.jpg",
+          "model": "simple_trans_FLUX.1.1-pro"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "text": "请选择您认为符合菜品描述且质量好的图片，可以多选，选自己觉得顺眼的：",
+      "type": "image_selection_with_validation",
+      "dishName": "红豆双皮奶, 红豆双皮奶, Double-Skin Milk with Red Beans",
+      "images": [
+        {
+          "id": 1,
+          "url": "/assets/detailed_trans_FLUX.1-schnell-Free/红豆双皮奶_Red Bean Double Skin Milk.jpg",
+          "model": "detailed_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 2,
+          "url": "/assets/detailed_trans_FLUX.1.1-pro/红豆双皮奶_Red Bean Double Skin Milk.jpg",
+          "model": "detailed_trans_FLUX.1.1-pro"
+        },
+        {
+          "id": 3,
+          "url": "/assets/FLUX.1-schnell-Free/红豆双皮奶.jpg",
+          "model": "FLUX.1-schnell-Free"
+        },
+        {
+          "id": 4,
+          "url": "/assets/FLUX.1.1-pro/红豆双皮奶.jpg",
+          "model": "FLUX.1.1-pro"
+        },
+        {
+          "id": 5,
+          "url": "/assets/menu_images_dalle3_2/红豆双皮奶.jpg",
+          "model": "menu_images_dalle3_2"
+        },
+        {
+          "id": 6,
+          "url": "/assets/simple_trans_FLUX.1-schnell-Free/红豆双皮奶_Red Bean Double Skin Milk.jpg",
+          "model": "simple_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 7,
+          "url": "/assets/simple_trans_FLUX.1.1-pro/红豆双皮奶_Red Bean Double Skin Milk.jpg",
+          "model": "simple_trans_FLUX.1.1-pro"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "text": "请选择您认为符合菜品描述且质量好的图片，可以多选，选自己觉得顺眼的：",
+      "type": "image_selection_with_validation",
+      "dishName": "蜜烧帖啦肉, 蜜烧贴拉肉, Honey-glazed Tielar Meat",
+      "images": [
+        {
+          "id": 1,
+          "url": "/assets/detailed_trans_FLUX.1-schnell-Free/蜜烧帖啦肉_Honey Glazed Brisket.jpg",
+          "model": "detailed_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 2,
+          "url": "/assets/detailed_trans_FLUX.1.1-pro/蜜烧帖啦肉_Honey Glazed Brisket.jpg",
+          "model": "detailed_trans_FLUX.1.1-pro"
+        },
+        {
+          "id": 3,
+          "url": "/assets/FLUX.1-schnell-Free/蜜烧帖啦肉.jpg",
+          "model": "FLUX.1-schnell-Free"
+        },
+        {
+          "id": 4,
+          "url": "/assets/FLUX.1.1-pro/蜜烧帖啦肉.jpg",
+          "model": "FLUX.1.1-pro"
+        },
+        {
+          "id": 5,
+          "url": "/assets/menu_images_dalle3_2/蜜烧帖啦肉.jpg",
+          "model": "menu_images_dalle3_2"
+        },
+        {
+          "id": 6,
+          "url": "/assets/simple_trans_FLUX.1-schnell-Free/蜜烧帖啦肉_Honey Glazed Brisket.jpg",
+          "model": "simple_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 7,
+          "url": "/assets/simple_trans_FLUX.1.1-pro/蜜烧帖啦肉_Honey Glazed Brisket.jpg",
+          "model": "simple_trans_FLUX.1.1-pro"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "text": "请选择您认为符合菜品描述且质量好的图片，可以多选，选自己觉得顺眼的：",
+      "type": "image_selection_with_validation",
+      "dishName": "金牌蒜香骨, 金牌蒜香骨, Golden Garlic Ribs",
+      "images": [
+        {
+          "id": 1,
+          "url": "/assets/detailed_trans_FLUX.1-schnell-Free/金牌蒜香骨_Golden Medal Garlic Ribs.jpg",
+          "model": "detailed_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 2,
+          "url": "/assets/detailed_trans_FLUX.1.1-pro/金牌蒜香骨_Golden Medal Garlic Ribs.jpg",
+          "model": "detailed_trans_FLUX.1.1-pro"
+        },
+        {
+          "id": 3,
+          "url": "/assets/FLUX.1-schnell-Free/金牌蒜香骨.jpg",
+          "model": "FLUX.1-schnell-Free"
+        },
+        {
+          "id": 4,
+          "url": "/assets/FLUX.1.1-pro/金牌蒜香骨.jpg",
+          "model": "FLUX.1.1-pro"
+        },
+        {
+          "id": 5,
+          "url": "/assets/menu_images_dalle3_2/金牌蒜香骨.jpg",
+          "model": "menu_images_dalle3_2"
+        },
+        {
+          "id": 6,
+          "url": "/assets/simple_trans_FLUX.1-schnell-Free/金牌蒜香骨_Golden Medal Garlic Ribs.jpg",
+          "model": "simple_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 7,
+          "url": "/assets/simple_trans_FLUX.1.1-pro/金牌蒜香骨_Golden Medal Garlic Ribs.jpg",
+          "model": "simple_trans_FLUX.1.1-pro"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "text": "请选择您认为符合菜品描述且质量好的图片，可以多选，选自己觉得顺眼的：",
+      "type": "image_selection_with_validation",
+      "dishName": "鯛カブト焼, 杜父鱼头烤, Grilled Sea Bream Head",
+      "images": [
+        {
+          "id": 1,
+          "url": "/assets/detailed_trans_FLUX.1-schnell-Free/鯛カブト焼_Grilled Sea Bream Head.jpg",
+          "model": "detailed_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 2,
+          "url": "/assets/detailed_trans_FLUX.1.1-pro/鯛カブト焼_Grilled Sea Bream Head.jpg",
+          "model": "detailed_trans_FLUX.1.1-pro"
+        },
+        {
+          "id": 3,
+          "url": "/assets/FLUX.1-schnell-Free/鯛カブト焼.jpg",
+          "model": "FLUX.1-schnell-Free"
+        },
+        {
+          "id": 4,
+          "url": "/assets/FLUX.1.1-pro/鯛カブト焼.jpg",
+          "model": "FLUX.1.1-pro"
+        },
+        {
+          "id": 5,
+          "url": "/assets/menu_images_dalle3_2/鯛カブト焼.jpg",
+          "model": "menu_images_dalle3_2"
+        },
+        {
+          "id": 6,
+          "url": "/assets/simple_trans_FLUX.1-schnell-Free/鯛カブト焼_Grilled Sea Bream Head.jpg",
+          "model": "simple_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 7,
+          "url": "/assets/simple_trans_FLUX.1.1-pro/鯛カブト焼_Grilled Sea Bream Head.jpg",
+          "model": "simple_trans_FLUX.1.1-pro"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "text": "请选择您认为符合菜品描述且质量好的图片，可以多选，选自己觉得顺眼的：",
+      "type": "image_selection_with_validation",
+      "dishName": "돈치마요, 肚脐拌饭, Donchimayo",
+      "images": [
+        {
+          "id": 1,
+          "url": "/assets/detailed_trans_FLUX.1-schnell-Free/돈치마요_Duchima-yo.jpg",
+          "model": "detailed_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 2,
+          "url": "/assets/detailed_trans_FLUX.1.1-pro/돈치마요_Duchima-yo.jpg",
+          "model": "detailed_trans_FLUX.1.1-pro"
+        },
+        {
+          "id": 3,
+          "url": "/assets/FLUX.1-schnell-Free/돈치마요.jpg",
+          "model": "FLUX.1-schnell-Free"
+        },
+        {
+          "id": 4,
+          "url": "/assets/FLUX.1.1-pro/돈치마요.jpg",
+          "model": "FLUX.1.1-pro"
+        },
+        {
+          "id": 5,
+          "url": "/assets/menu_images_dalle3_2/돈치마요.jpg",
+          "model": "menu_images_dalle3_2"
+        },
+        {
+          "id": 6,
+          "url": "/assets/simple_trans_FLUX.1-schnell-Free/돈치마요_Duchima-yo.jpg",
+          "model": "simple_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 7,
+          "url": "/assets/simple_trans_FLUX.1.1-pro/돈치마요_Duchima-yo.jpg",
+          "model": "simple_trans_FLUX.1.1-pro"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "text": "请选择您认为符合菜品描述且质量好的图片，可以多选，选自己觉得顺眼的：",
+      "type": "image_selection_with_validation",
+      "dishName": "빅치킨마요, 大鸡肉美乃滋, Big Chicken Mayo",
+      "images": [
+        {
+          "id": 1,
+          "url": "/assets/detailed_trans_FLUX.1-schnell-Free/빅치킨마요_Big Chicken Mayo.jpg",
+          "model": "detailed_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 2,
+          "url": "/assets/detailed_trans_FLUX.1.1-pro/빅치킨마요_Big Chicken Mayo.jpg",
+          "model": "detailed_trans_FLUX.1.1-pro"
+        },
+        {
+          "id": 3,
+          "url": "/assets/FLUX.1-schnell-Free/빅치킨마요.jpg",
+          "model": "FLUX.1-schnell-Free"
+        },
+        {
+          "id": 4,
+          "url": "/assets/FLUX.1.1-pro/빅치킨마요.jpg",
+          "model": "FLUX.1.1-pro"
+        },
+        {
+          "id": 5,
+          "url": "/assets/menu_images_dalle3_2/빅치킨마요.jpg",
+          "model": "menu_images_dalle3_2"
+        },
+        {
+          "id": 6,
+          "url": "/assets/simple_trans_FLUX.1-schnell-Free/빅치킨마요_Big Chicken Mayo.jpg",
+          "model": "simple_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 7,
+          "url": "/assets/simple_trans_FLUX.1.1-pro/빅치킨마요_Big Chicken Mayo.jpg",
+          "model": "simple_trans_FLUX.1.1-pro"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "text": "请选择您认为符合菜品描述且质量好的图片，可以多选，选自己觉得顺眼的：",
+      "type": "image_selection_with_validation",
+      "dishName": "참치 샐러드마요, 金枪鱼沙拉美乃滋, Tuna Salad Mayo",
+      "images": [
+        {
+          "id": 1,
+          "url": "/assets/detailed_trans_FLUX.1-schnell-Free/참치 샐러드마요_Tuna Salad with Mayonnaise.jpg",
+          "model": "detailed_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 2,
+          "url": "/assets/detailed_trans_FLUX.1.1-pro/참치 샐러드마요_Tuna Salad with Mayonnaise.jpg",
+          "model": "detailed_trans_FLUX.1.1-pro"
+        },
+        {
+          "id": 3,
+          "url": "/assets/FLUX.1-schnell-Free/참치 샐러드마요.jpg",
+          "model": "FLUX.1-schnell-Free"
+        },
+        {
+          "id": 4,
+          "url": "/assets/FLUX.1.1-pro/참치 샐러드마요.jpg",
+          "model": "FLUX.1.1-pro"
+        },
+        {
+          "id": 5,
+          "url": "/assets/menu_images_dalle3_2/참치 샐러드마요.jpg",
+          "model": "menu_images_dalle3_2"
+        },
+        {
+          "id": 6,
+          "url": "/assets/simple_trans_FLUX.1-schnell-Free/참치 샐러드마요_Tuna Salad with Mayonnaise.jpg",
+          "model": "simple_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 7,
+          "url": "/assets/simple_trans_FLUX.1.1-pro/참치 샐러드마요_Tuna Salad with Mayonnaise.jpg",
+          "model": "simple_trans_FLUX.1.1-pro"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "text": "请选择您认为符合菜品描述且质量好的图片，可以多选，选自己觉得顺眼的：",
+      "type": "image_selection_with_validation",
+      "dishName": "참치마요, 金枪鱼沙拉, Tuna mayo",
+      "images": [
+        {
+          "id": 1,
+          "url": "/assets/detailed_trans_FLUX.1-schnell-Free/참치마요_Tuna Mayo.jpg",
+          "model": "detailed_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 2,
+          "url": "/assets/detailed_trans_FLUX.1.1-pro/참치마요_Tuna Mayo.jpg",
+          "model": "detailed_trans_FLUX.1.1-pro"
+        },
+        {
+          "id": 3,
+          "url": "/assets/FLUX.1-schnell-Free/참치마요.jpg",
+          "model": "FLUX.1-schnell-Free"
+        },
+        {
+          "id": 4,
+          "url": "/assets/FLUX.1.1-pro/참치마요.jpg",
+          "model": "FLUX.1.1-pro"
+        },
+        {
+          "id": 5,
+          "url": "/assets/menu_images_dalle3_2/참치마요.jpg",
+          "model": "menu_images_dalle3_2"
+        },
+        {
+          "id": 6,
+          "url": "/assets/simple_trans_FLUX.1-schnell-Free/참치마요_Tuna Mayo.jpg",
+          "model": "simple_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 7,
+          "url": "/assets/simple_trans_FLUX.1.1-pro/참치마요_Tuna Mayo.jpg",
+          "model": "simple_trans_FLUX.1.1-pro"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "text": "请选择您认为符合菜品描述且质量好的图片，可以多选，选自己觉得顺眼的：",
+      "type": "image_selection_with_validation",
+      "dishName": "치킨마요, 鸡肉美乃滋, Chicken Mayo",
+      "images": [
+        {
+          "id": 1,
+          "url": "/assets/detailed_trans_FLUX.1-schnell-Free/치킨마요_Chicken Mayo.jpg",
+          "model": "detailed_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 2,
+          "url": "/assets/detailed_trans_FLUX.1.1-pro/치킨마요_Chicken Mayo.jpg",
+          "model": "detailed_trans_FLUX.1.1-pro"
+        },
+        {
+          "id": 3,
+          "url": "/assets/FLUX.1-schnell-Free/치킨마요.jpg",
+          "model": "FLUX.1-schnell-Free"
+        },
+        {
+          "id": 4,
+          "url": "/assets/FLUX.1.1-pro/치킨마요.jpg",
+          "model": "FLUX.1.1-pro"
+        },
+        {
+          "id": 5,
+          "url": "/assets/menu_images_dalle3_2/치킨마요.jpg",
+          "model": "menu_images_dalle3_2"
+        },
+        {
+          "id": 6,
+          "url": "/assets/simple_trans_FLUX.1-schnell-Free/치킨마요_Chicken Mayo.jpg",
+          "model": "simple_trans_FLUX.1-schnell-Free"
+        },
+        {
+          "id": 7,
+          "url": "/assets/simple_trans_FLUX.1.1-pro/치킨마요_Chicken Mayo.jpg",
+          "model": "simple_trans_FLUX.1.1-pro"
+        }
+      ]
+    }
+  ]
+}

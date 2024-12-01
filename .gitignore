@@ -1,0 +1,7 @@
+node_modules/
+.npm/
+.bash_history
+.cache/
+.ssh/
+
+log/
